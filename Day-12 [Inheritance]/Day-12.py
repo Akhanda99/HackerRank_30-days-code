@@ -1,3 +1,6 @@
+# 30 Days of Code
+# Day 12: Inheritance
+
 class Person:
     def __init__(self, firstName, lastName, idNumber):
         self.firstName = firstName
