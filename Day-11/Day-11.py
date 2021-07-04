@@ -1,4 +1,7 @@
 #!/bin/python3
+# 30 Days of Code
+# Day 11: 2D Arrays
+
 
 def get_hourglass_sum(matrix,row,col):
     sum=0
